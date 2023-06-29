@@ -1,9 +1,11 @@
-# hello-world
-tryna figure out how to use github
-
-## I'm really just trying to make a website.
-
-### why everything so hella confusing. 
-
-:joy:
-
+<!DOCTYPE html>
+<html>
+  <body style='background-color:powderblue;">
+  <head>
+    Magpie Photography
+  </head>
+  <body>
+    <h1>This is a Heading</h1>
+    <p>This is a paragraph.</p>
+  </body>
+</html>
